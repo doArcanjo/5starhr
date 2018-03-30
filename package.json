@@ -1,8 +1,8 @@
 {
-  "name": "fivestarhr",
+  "name": "reacender",
   "version": "1.0.0",
-  "description": "Five Start HR Website",
-  "author": "Jay McMullen <j.mcmullen@koala.com>",
+  "description": "reacender Website",
+  "author": "Joao Ramos",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -14,9 +14,9 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^4.5.0",
-    "markdown-it": "^8.4.0",
+    "markdown-it": "^8.4.1",
     "netlify-cms": "^1.0.2",
-    "nuxt": "^1.0.0-gh-b31b0f2",
+    "nuxt": "2.0.0",
     "nuxtent": "^1.1.0"
   },
   "devDependencies": {
